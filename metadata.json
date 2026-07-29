@@ -1,0 +1,6 @@
+{
+  "name": "AI Summer Camp 2026 Assistant",
+  "description": "Interactive AI Assistant for Bright Mind Institute of Education AI Summer Camp 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
